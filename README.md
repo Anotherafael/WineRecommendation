@@ -1,6 +1,6 @@
 ## Wine Recommendation
 
-In this project, two wine recommendation models were developed using the XWines dataset. The approach includes collaborative filtering and content-based recommendation techniques to provide personalized suggestions to users based on their preferences.
+In this project, two wine recommendation models were developed using the [XWines](https://www.kaggle.com/datasets/rogerioxavier/x-wines-slim-version) dataset. The approach includes collaborative filtering and content-based recommendation techniques to provide personalized suggestions to users based on their preferences.
 
 The XWines dataset is a comprehensive collection of wine data, including attributes such as grape variety, region, vintage, and user ratings.
 
