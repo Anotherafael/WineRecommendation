@@ -1,8 +1,8 @@
 ## Wine Recommendation
 
-In this project, two wine recommendation models were developed using the XWines dataset. The approach includes collaborative filtering and content-based recommendation techniques to provide personalized suggestions to users based on their preferences.
+This project was developed as part of the [Intelligent Recommendation System Course](https://drive.google.com/file/d/17K87LtU9j7mQbs0Mdq08r84zq6Y0kNEk/view?usp=sharing) at Univesidade Federal do Tocantins. It aims to create a personalized wine recommendation system using the XWines dataset. The system employs collaborative filtering and content-based recommendation techniques to suggest wines based on user preferences.
 
-The XWines dataset is a comprehensive collection of wine data, including attributes such as grape variety, region, vintage, and user ratings.
+The project draws inspiration from the work of [salimkilinc](https://github.com/salimkilinc), whose code on GitHub served as a reference for implementing the recommendation models.
 
 ## Summary
 
