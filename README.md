@@ -1,6 +1,6 @@
 ## Wine Recommendation
 
-This project was developed as part of the [Intelligent Recommendation System Course](https://drive.google.com/file/d/17K87LtU9j7mQbs0Mdq08r84zq6Y0kNEk/view?usp=sharing) at Univesidade Federal do Tocantins. It aims to create a personalized wine recommendation system using the XWines dataset. The system employs collaborative filtering and content-based recommendation techniques to suggest wines based on user preferences.
+This project was developed as part of the [Intelligent Recommendation System Course](https://drive.google.com/file/d/17K87LtU9j7mQbs0Mdq08r84zq6Y0kNEk/view?usp=sharing) at Univesidade Federal do Tocantins. It aims to create a personalized wine recommendation system using the [XWines](https://www.kaggle.com/datasets/rogerioxavier/x-wines-slim-version) dataset. The system employs collaborative filtering and content-based recommendation techniques to suggest wines based on user preferences.
 
 The project draws inspiration from the work of [salimkilinc](https://github.com/salimkilinc), whose code on GitHub served as a reference for implementing the recommendation models.
 
