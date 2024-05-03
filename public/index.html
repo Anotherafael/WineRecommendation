@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="styles/styles.css">
+    <script src="scripts/scripts.js"></script>
+</head>
+
+<body>
+    <div class="form-box">
+        <h2>Wines Recomendations</h2>
+        <form>
+            <div class="wine-box">
+                <!-- <input type="text" name="" required=""> -->
+                <div>
+                    <select class="wine" name="" id="uiWines">
+                        <option value="" disabled="disabled" selected="selected">Choose a Wine</option>
+                        <option>Electronic City</option>
+                        <option>Rajaji Nagar</option>
+                    </select>
+                </div>
+            </div>
+            <center>
+                <a href="#" onclick="onClickedRecommendation()">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    Submit
+                </a>
+            </center>
+
+            <center>
+                <div id="uiRecommendations" class="recommendations">
+                    <h2></h2>
+                </div>
+            </center>
+        </form>
+    </div>
+</body>
+
+</html>
