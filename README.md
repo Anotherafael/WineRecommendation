@@ -6,9 +6,15 @@ The project draws inspiration from the work of [salimkilinc](https://github.com/
 
 ## Summary
 
+- [Visualization](#visualization-of-the-content-based-model)
 - [Which recommendations were used?](#which-recommendations-were-used)
 - [Technologies](#technologies)
 - [How to Install](#how-to-install)
+
+#### Visualization of the Content-based Model
+
+<img src='assets/images/wine_home.png'>
+<img src='assets/images/wine_prediction.png'>
 
 ## Which recommendations were used?
 
@@ -27,12 +33,9 @@ The project draws inspiration from the work of [salimkilinc](https://github.com/
     * **cosine_similarity:** function to calculate vector similarity using the cosine measure.
     * **euclidean_distances:** function to calculate Euclidean distance between points in an n-dimensional space.
 
-## How to Install
+## How to Use
 
-1. Clone the repository
-```
-git clone https://github.com/Anotherafael/STUDY_WineRecommendation.git
-```
+1. Hey there! If you're looking to give this repo a personal touch, feel free to fork it. But if you'd rather just hang out, cloning is totally cool too!
 2. Install [Python](https://www.python.org/) or copy the project to [Google Collab](https://colab.google/)
 3. Install the dependencies
 ```
