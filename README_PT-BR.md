@@ -1,6 +1,6 @@
 ## Recomendação de Vinhos
 
-Este projeto foi desenvolvido como parte do [Curso de Sistema de Recomendação Inteligente](https://drive.google.com/file/d/17K87LtU9j7mQbs0Mdq08r84zq6Y0kNEk/view?usp=sharing) na Universidade Federal do Tocantins. Ele tem como objetivo criar um sistema de recomendação de vinhos personalizado usando o conjunto de dados [XWines](https://www.kaggle.com/datasets/rogerioxavier/x-wines-slim-version). Além disso, o projeto se inspira no trabalho de [salimkilinc](https://github.com/salimkilinc), cujo código no GitHub serviu como referência para a implementação dos modelos de recomendação.
+Este projeto foi desenvolvido como parte do [Curso de Sistema de Recomendação Inteligente](https://drive.google.com/file/d/17K87LtU9j7mQbs0Mdq08r84zq6Y0kNEk/view?usp=sharing) na Universidade Federal do Tocantins. Ele tem como objetivo criar um sistema de recomendação de vinhos personalizado usando o conjunto de dados [XWines](https://www.kaggle.com/datasets/rogerioxavier/x-wines-slim-version).
 
 O sistema utiliza técnicas de filtragem colaborativa e recomendação baseada em conteúdo para sugerir vinhos com base nas preferências do usuário.
 
