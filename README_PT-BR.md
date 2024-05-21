@@ -1,5 +1,7 @@
 ## Recomendação de Vinhos
 
+[Go to the english description](https://github.com/Anotherafael/STUDY_WineRecommendation)
+
 Este projeto foi desenvolvido como parte do [Curso de Sistema de Recomendação Inteligente](https://drive.google.com/file/d/17K87LtU9j7mQbs0Mdq08r84zq6Y0kNEk/view?usp=sharing) na Universidade Federal do Tocantins. Ele tem como objetivo criar um sistema de recomendação de vinhos personalizado usando o conjunto de dados [XWines](https://www.kaggle.com/datasets/rogerioxavier/x-wines-slim-version).
 
 O sistema utiliza técnicas de filtragem colaborativa e recomendação baseada em conteúdo para sugerir vinhos com base nas preferências do usuário.
@@ -12,9 +14,8 @@ O sistema utiliza técnicas de filtragem colaborativa e recomendação baseada e
 - [How to Install](#how-to-install)
 
 #### Visualização do Modelo Baseado em Conteúdo
-<img src='assets/images/wine_home.png'>
-<img src='assets/images/wine_prediction.png'>
 
+<img src="/assets/home_page.gif" style='width: 100%'> </img>
 
 ## Quais recomendação foram utilizadas?
 
